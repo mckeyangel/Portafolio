@@ -1,0 +1,10 @@
+body{background-color: black;}
+.linknav:hover{ 
+    background-color: skyblue;
+    border-radius: 20px;
+    padding: 8px;
+}
+.linknav1:hover{ 
+    background-color:aquamarine;
+    padding: 8px;
+}
