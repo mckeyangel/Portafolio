@@ -22,7 +22,7 @@ let navbar = `<div class="container-fluid">
       </ul>
     </li>
     <li class="nav-item">
-      <a class="nav-link disabled">Miguel Montes de Oca</a>
+      <a class="nav-link disabled">Miguel Angel Alvarez Montes de Oca</a>
     </li>
   </ul>
 </div>
